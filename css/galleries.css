@@ -31,7 +31,6 @@
 .blind-gallery-bottom { display: flex; justify-content: space-between; gap: 24px; padding-top: 12px; }
 .blind-gallery-bottom .gallery-status { flex-shrink: 0; }
 .social-links { flex-wrap: wrap; }
-.download-link[aria-disabled="true"] { color: var(--muted); border-color: var(--border); }
 @media (hover: hover) and (prefers-reduced-motion: no-preference) {
   .king-stage:hover img, .blind-rail a:hover img { transform: scale(1.025); }
 }

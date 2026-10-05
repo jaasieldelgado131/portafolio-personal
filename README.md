@@ -18,8 +18,9 @@ Hecho con HTML5, CSS3 y JavaScript vanilla, sin frameworks ni instalación de de
 Descarga o clona el repositorio y abre `index.html` en un navegador moderno.
 Conserva las carpetas `css/`, `js/` y `assets/` junto al archivo.
 
-Las galerías usan capturas reales de desarrollo. La fotografía personal, el PDF
-del curriculum y algunos materiales académicos siguen pendientes.
+Las galerías usan capturas reales de desarrollo. El curriculum está disponible
+como PDF de una página en `assets/cv/curriculum.pdf`, con descarga desde el sitio.
+La fotografía personal y algunos materiales académicos siguen pendientes.
 El formulario valida datos en el navegador; no envía mensajes ni los almacena.
 
 [GitHub](https://github.com/jaasieldelgado131)
